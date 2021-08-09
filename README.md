@@ -1,5 +1,9 @@
 # Kubernetes Admission Controller Webhook Demo
 
+## Blog
+
+https://blog.rewanthtammana.com/creating-malicious-admission-controllers
+
 This repository contains a small HTTP server that can be used as a Kubernetes
 [MutatingAdmissionWebhook](https://kubernetes.io/docs/admin/admission-controllers/#mutatingadmissionwebhook-beta-in-19).
 
